@@ -1,6 +1,6 @@
 {
   "name": "desafio-05",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "Desafío entregable 05 - Motores de plantillas",
   "main": "index.js",
   "scripts": {

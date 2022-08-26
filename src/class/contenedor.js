@@ -74,5 +74,4 @@ class Contenedor {
         return obj;
     }
 }
-
 module.exports = Contenedor

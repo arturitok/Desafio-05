@@ -1,4 +1,4 @@
-# Desafio 5 - Motores de Plantillas
+# Desafio 05 - Motores de Plantillas
 ## Motores Utilizados
 1. Handlebars: La documentación no es la mejor, se usa la isntaxis de HTML con los tags {{}} loq ue no lo hace un código demasiado elegante al leerl, pero da la ventaja que si no está entre llaves es HTML y si está es HBS, y eso permite separar la parte lógica de la de etiquetado.
 2. Pug: Permite un código mas "limpio" una vez que uno se acsotumbra a la sintaxis, la contra es que hay que familiarizarse con ella. Creo que si uno se habitúa es mas fácil de implementar y mantener. 

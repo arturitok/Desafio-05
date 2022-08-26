@@ -17,8 +17,6 @@ const layoutDirPath = path.resolve(__dirname, '../views/layouts');
 const defaultLayerPth = path.resolve(__dirname, '../views/layouts/main.hbs');
 
 
-
-
 app.set('views engine', 'hbs')
 
 app.engine(
